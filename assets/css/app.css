@@ -1,0 +1,6 @@
+html, body {
+    font-family: 'Nunito', sans-serif;
+    user-select: none;
+    outline: none !important;
+    outline-color: transparent;
+}
