@@ -3,4 +3,9 @@ html, body {
     user-select: none;
     outline: none !important;
     outline-color: transparent;
+    scroll-behavior: smooth;
+}
+
+b{
+  font-size: 13px;
 }
